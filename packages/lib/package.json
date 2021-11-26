@@ -1,5 +1,5 @@
 {
-  "name": "lib",
+  "name": "@learna/lib",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
