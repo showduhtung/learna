@@ -62,7 +62,7 @@ export const Login = () => {
           <LockOutlined />
         </Avatar>
         <Typography component="h1" variant="h4">
-          APP 1 Login
+          APP 2 Login
         </Typography>
         <div className={clsx(classes.error, _.isEmpty(error) && classes.hidden)}>
           <StatusAlert error={error} />
